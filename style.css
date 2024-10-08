@@ -1,0 +1,28 @@
+body {
+  background: rgb(75, 71, 71);
+  color: white;
+}
+
+.counter__container {
+  margin: 100px;
+}
+
+.btn {
+  width: 50px;
+  height: 25px;
+}
+
+ul {
+  margin-left: 4rem;
+}
+
+li {
+  list-style: none;
+}
+
+input {
+  margin-left: 100px;
+  color: green;
+  size: 12px;
+  height: 20px;
+}
