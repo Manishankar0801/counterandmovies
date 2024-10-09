@@ -1,5 +1,10 @@
 # counterandmovies
 
+Deployed in netlify 
+    ```
+    https://countermovies.netlify.app/
+    ```
+
 Use html,css and js to complete the following project
 
 - Use VSCode for coding
